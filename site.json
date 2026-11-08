@@ -1,0 +1,49 @@
+{
+  "id": "okiporadnik",
+  "name": "OKI Poradnik",
+  "logo": "poradnik",
+  "domain": "okiporadnik.pl",
+  "headline": "Uporządkuj plan swoich oszczędności.",
+  "intro": "Sprawdź zasady OKI, koszty i konsekwencje dla zgromadzonych pieniędzy. Przygotuj dane, policz wariant i zachowaj wynik.",
+  "kicker": "Planuję i dbam o oszczędności",
+  "featured": "obecny-portfel",
+  "cta": "Sprawdź obecny portfel",
+  "asideLabel": "Decyzja zaczyna się od danych",
+  "asideTitle": "Kwota. Cel. Termin.",
+  "asideText": "Co chcesz osiągnąć? Kiedy potrzebujesz pieniędzy? Jakie warunki trzeba sprawdzić w umowie? Zacznij od swojego planu.",
+  "toolsHeading": "Narzędzia do Twojego planu",
+  "knowledgeHeading": "Zasady i pytania do sprawdzenia",
+  "sideHeading": "Przygotuj, policz, zachowaj",
+  "sideSteps": [
+    "Zbierz kwoty i warunki z dokumentów.",
+    "Sprawdź, czy model obejmuje Twoją sytuację.",
+    "Przeczytaj ograniczenia i wydrukuj wynik."
+  ],
+  "order": [
+    "obecny-portfel",
+    "koszty-oki",
+    "oki-czy-zwykly-rachunek",
+    "podatek-oki",
+    "regularne-wplaty"
+  ],
+  "articleTitles": {
+    "co-to-jest-oki": "Co OKI oznacza dla Twoich pieniędzy?",
+    "limity-i-srednie": "Jakie dane przygotować do rachunku podatku?",
+    "jak-wybrac-operatora": "Lista pytań przed wyborem instytucji",
+    "pierwszy-plan": "Jak uporządkować plan oszczędności?"
+  },
+  "articleNotes": {
+    "co-to-jest-oki": "Nazwa konta nie określa dostępności pieniędzy ani ochrony wszystkich instrumentów. Sprawdź konkretną formę i umowę.",
+    "limity-i-srednie": "Zacznij od listy własnych kont i dokumentów. Brak danych to powód do ich uzupełnienia, nie do wpisania zera.",
+    "jak-wybrac-operatora": "Zapisz pytania i odpowiedzi z datą. Możliwość wygodnej obsługi i zasady wypłaty są ważne obok samego kosztu.",
+    "pierwszy-plan": "Plan powinien uwzględniać termin wykorzystania pieniędzy. Podstawowy model regularnych wpłat nie obsługuje jeszcze częściowych wypłat."
+  },
+  "articleBodies": {
+    "co-to-jest-oki": "<p>OKI opisuje sposób prowadzenia oszczędności lub inwestycji. Nie gwarantuje zysku ani jednakowej ochrony każdego produktu. Przed decyzją trzeba ustalić formę konta, warunki umowy i moment, w którym pieniądze mogą być potrzebne.</p><h2>Co sprawdzić przy własnych oszczędnościach?</h2><ol><li>W jakiej instytucji i formie miałyby być prowadzone?</li><li>Jakie opłaty i warunki wypłaty przewiduje dokumentacja?</li><li>Jaki zakres ochrony dotyczy konkretnego produktu?</li><li>Jakie informacje otrzymasz do rozliczenia?</li></ol><h2>Podatek to jeden element</h2><p>Ustawa przewiduje wyłączenie określonych dochodów z PIT i osobny podatek od wartości aktywów. Nie oznacza to braku wszystkich podatków, w szczególności zagranicznych. Wejście przepisów przewidziano od 1 stycznia 2027 r.; warunki poszczególnych ofert należy sprawdzić w instytucji.</p>",
+    "limity-i-srednie": "<p>Do rachunku podatku przygotuj listę wszystkich własnych OKI i gotowe średnie wartości według grup. Saldo z ostatniego dnia roku lub suma wpłat nie zastępują tych danych.</p><h2>Lista do przygotowania</h2><ol><li>Właściwy rok — pierwszy kalkulator obsługuje 2027.</li><li>Średnie grupy S, I i N dla każdego konta.</li><li>Potwierdzenie klasyfikacji z dokumentów produktu lub instytucji.</li><li>Oznaczenie brakujących danych, których nie wolno zastąpić zerem.</li></ol><h2>Jak czytać zwolnienia?</h2><p>Do 25 000 zł średniej S mieści się w łącznej puli 100 000 zł. Pozostała część tej puli dotyczy I. Grupa N nie korzysta z tych zwolnień. Kilka kont nie zwiększa automatycznie puli.</p><h2>Przykład</h2><p>Hipotetyczne średnie S 50 000 zł i I 50 000 zł dają podstawę 25 000 zł oraz kwotę arytmetyczną 212,50 zł dla 2027 r., przed końcowym zaokrągleniem zobowiązania. Zachowaj wynik razem z użytymi danymi.</p>",
+    "jak-wybrac-operatora": "<p>Przed wyborem instytucji przygotuj pytania o własny plan. Obok kosztów sprawdź sposób obsługi, dostęp do dokumentów i warunki korzystania z pieniędzy.</p><h2>Pytania do instytucji</h2><ol><li>Czy oferta już działa i gdzie znajdę pełną umowę?</li><li>Jakie produkty obejmuje i jakie ryzyka wiążą się z ich formą?</li><li>Jakie opłaty zapłacę przy moich kwotach i działaniach?</li><li>Jak wygląda wypłata, sprzedaż i zakończenie umowy?</li><li>Gdzie uzyskam pomoc i jak otrzymam informacje roczne?</li></ol><h2>Zachowaj odpowiedzi</h2><p>Przy każdej odpowiedzi zapisz źródło i datę. Zaznacz niewyjaśnione warunki przed podpisaniem umowy. Nie traktuj ogólnej nazwy konta jako potwierdzenia ochrony wszystkich aktywów.</p><p>Wynik prostego kalkulatora kosztów obejmuje tylko roczną opłatę stałą i procentową. Pełna taryfa może zawierać inne pozycje. Ten tekst nie ocenia konkretnych instytucji.</p>",
+    "pierwszy-plan": "<p>Uporządkowanie planu zacznij od celu, kwoty i terminu wykorzystania pieniędzy. Osobno zapisz potrzeby regularnych wypłat i większych wydatków. Nie każdy prosty kalkulator obejmuje wszystkie te sytuacje.</p><h2>Dane do zebrania</h2><ol><li>Kwota początkowa i realny dla Ciebie harmonogram nowych wpłat.</li><li>Horyzont oraz własne jawne założenia zwrotu.</li><li>Warunki kosztowe z dokumentów.</li><li>Lista operacji, których model jeszcze nie uwzględnia.</li></ol><h2>Wynik do zachowania</h2><p>Przeczytaj oddzielnie kapitał, opłaty i podatki. Wydruk obejmuje wynik oraz ograniczenia; wraz z nim zachowaj własne założenia i wersję obliczeń. Gdy zmieni się termin lub potrzeba dostępu do pieniędzy, ponownie sprawdź plan.</p><p>Pierwsza wersja modelu wpłat nie obsługuje częściowych wypłat. Porównanie starego portfela obejmuje uproszczoną sprzedaż i ponowną wpłatę, nie transfer papierów.</p>"
+  },
+  "releaseVersion": "1.0.0",
+  "publisher": "slss"
+}
