@@ -1,6 +1,6 @@
 # okiporadnik
 
-Niezależny serwis edukacyjny o OKI, rozwijany w projekcie slss. Wersja 1.0.0 przygotowana 2026-11-09; źródła podstawowych reguł sprawdzone 2026-11-08. Docelowa domena: `okiporadnik.pl`. Repozytorium: https://github.com/slss/okiporadnik .
+Niezależny serwis edukacyjny o OKI, rozwijany w projekcie slss. Wersja 1.0.0 przygotowana 2026-11-09; źródła podstawowych reguł sprawdzone 2026-11-08. Domena produkcyjna: `https://okiporadnik.pl/`. DNS i przypisanie Pages ustawione 2026-11-09; bieżący stan TLS i Google w raporcie domen. Repozytorium: https://github.com/slss/okiporadnik .
 
 ## Uruchomienie
 
